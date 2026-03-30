@@ -3,12 +3,12 @@
     <channel>
         <title>Respite 1.0 (2)</title>
         <item>
-            <title>1.0</title>
+            <title>1.0 (2)</title>
             <pubDate>Mon, 30 Mar 2026 15:24:01 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0 (2)</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nnluukhtn/respite.app/releases/download/v1.0(2)/Respite-1.0-(2).zip" length="4171575" type="application/octet-stream" sparkle:edSignature="stuhrCo80t1Jl64l5K9q+JtOjzvjYXyT5ErLzopZNLAsbItcp/uqKfs18I1hA8cO4D2onvV9qWkXsJK8vyiTAA=="/>
+            <enclosure url="https://github.com/nnluukhtn/respite.app/releases/download/v1.0.2/Respite.zip" length="4168871" type="application/octet-stream" sparkle:edSignature="/yj3mejK4sC09y4vTDSZRhGQOk4Ez/4f4GwHzork7wsFNL0tM4Y1JUROkiEEP7dErIwW4pXGcNAldbkECTERCg=="/>
         </item>
     </channel>
 </rss>
