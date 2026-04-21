@@ -4,11 +4,11 @@
         <title>SmartPause</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 17 Apr 2026 15:57:27 +0700</pubDate>
+            <pubDate>Tue, 21 Apr 2026 14:02:59 +0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nnluukhtn/smartpause.app/releases/download/v1.0/SmartPause-1.0.zip" length="7855412" type="application/octet-stream" sparkle:edSignature="XtOWGL0I6sk2c9q/6POWgJt+M63Tjv2KNcVhiMAts39m7GehUQphpJsWei9sUHm9HGXQg9WM977YupaUFlEqAg=="/>
+            <enclosure url="https://github.com/nnluukhtn/smartpause.app/releases/download/v1.0/SmartPause-1.0.zip" length="22059244" type="application/octet-stream" sparkle:edSignature="UY4eZeChe8ILvjtP4wLJuwI7bTBSwuSvdTjvbBiE7UaH0qoV31kNLXGmcpqxjSwjXuEQ3ZBT+x2mej6dvI7GBw=="/>
         </item>
     </channel>
 </rss>
